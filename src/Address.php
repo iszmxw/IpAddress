@@ -10,7 +10,7 @@ namespace Iszmxw\IpAddress;
 
 class Address
 {
-    public function ip()
+    public static function ip()
     {
         if (@$_SERVER["HTTP_X_FORWARDED_FOR"])
             $ip = $_SERVER["HTTP_X_FORWARDED_FOR"];

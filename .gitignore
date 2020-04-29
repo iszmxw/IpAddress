@@ -1,3 +1,5 @@
 # 编辑器目录和文件
-.idea
-/vendor
+.git
+.idea/
+vendor
+composer.lock

@@ -1,0 +1,21 @@
+{
+  "name": "mail/ip-address",
+  "description": "ip地址获取",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "追梦小窝",
+      "email": "mail@54zm.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Iszmxw\\IpAddress\\": "src"
+    }
+  }
+}

@@ -9,7 +9,6 @@
       "email": "mail@54zm.com"
     }
   ],
-  "minimum-stability": "dev",
   "require": {
     "php": ">=7.0"
   },
